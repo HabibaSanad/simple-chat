@@ -25,7 +25,7 @@ The project simulates a basic distributed chat system where multiple clients can
    ```bash
    go run server.go
    ```
-2. go run client.go -name="YourName"
+2. go run client.go and enter your name
 3. Type messages and press Enter.
 4. Type exit to quit.
 
